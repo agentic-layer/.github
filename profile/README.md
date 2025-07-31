@@ -8,8 +8,10 @@
 
 The [Agentic Layer](https://agentic-layer.ai/) hosts essential components for cloud-native agentic AI platforms.
 
-Visit [agentic-layer.ai](https://agentic-layer.ai/about/who-we-are/) to learn more!
+Visit [agentic-layer.ai](https://agentic-layer.ai/) to learn more!
 
 ----
 
 Agentic Layer projects adopt our [Code of Conduct](https://github.com/agentic-layer/.github/blob/main/CODE_OF_CONDUCT.md).
+
+Contributions from the community are welcome! Please follow our [Contributing Guide](https://github.com/agentic-layer/.github/blob/main/CONTRIBUTING.md).
