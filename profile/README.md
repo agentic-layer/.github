@@ -1,12 +1,15 @@
-## Hi there 👋
+<picture style="display: block; max-width: 100%;">
+  <source media="(prefers-color-scheme: dark)" srcset="al-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="al-banner-light.png">
+  <img alt="Agentic Layer Logo" src="al-banner-light.png" style="width: 100%; height: auto; max-width: 100%;">
+</picture>
 
-<!--
+----
 
-**Here are some ideas to get you started:**
+The [Agentic Layer](https://agentic-layer.ai/) hosts essential components for cloud-native agentic AI platforms.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Visit [agentic-layer.ai](https://agentic-layer.ai/about/who-we-are/) to learn more!
+
+----
+
+Agentic Layer projects adopt our [Code of Conduct](https://github.com/agentic-layer/.github/blob/main/CODE_OF_CONDUCT.md).
