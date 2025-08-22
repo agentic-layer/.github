@@ -2,6 +2,17 @@
 
 Welcome to the agentic-layer project! This guide will help you contribute effectively to our codebase.
 
+----
+
+## Table of Contents
+
+- [Commit Message Conventions](#commit-message-conventions)
+- [Pull Request Workflow](#pull-request-workflow)
+- [Issue Tracking Integration](#issue-tracking-integration)
+- [Developer Notes](#developer-notes)
+
+----
+
 ## Commit Message Conventions
 
 We follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard for commit messages.
@@ -122,3 +133,11 @@ fix: #456 Fix login validation bug
 ```
 
 This helps with traceability and project management across both platforms.
+
+## Developer Notes
+
+- Install pre-commit hooks for the respective repository  (mandatory for all repos with pre-commit configs)
+  ```bash
+  pre-commit install
+     ```
+- Always ensure your code is well-tested before submitting a pull request
