@@ -6,9 +6,9 @@
 
 ----
 
-The [Agentic Layer](https://agentic-layer.ai/) hosts essential components for cloud-native agentic AI platforms.
+The Agentic Layer hosts essential components for cloud-native agentic AI platforms.
 
-Visit [agentic-layer.ai](https://agentic-layer.ai/) to learn more!
+Visit [agentic-layer.ai](https://agentic-layer.ai) to learn more!
 
 ----
 
