@@ -1,4 +1,4 @@
-# Building blocks for safe, interoperable, and adaptive agentic systems
+# Integrated Building Blocks for Safe, Interoperable, and Adaptive Agentic Systems
 
 <picture style="display: block; max-width: 100%;">
   <source media="(prefers-color-scheme: dark)" srcset="al-banner-dark.png">
