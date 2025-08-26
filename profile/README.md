@@ -1,4 +1,4 @@
-# Cloud-native agentic AI platform components to host your production-grade agent workloads
+# Building blocks for safe, interoperable, and adaptive agentic systems
 
 <picture style="display: block; max-width: 100%;">
   <source media="(prefers-color-scheme: dark)" srcset="al-banner-dark.png">
@@ -8,7 +8,10 @@
 
 ----
 
-The Agentic Layer hosts essential components for cloud-native agentic AI platforms.
+Your Bridge to Sovereign AI Orchestration.
+Transform isolated AI agents into an enterprise-grade workforce.
+
+We give you the control, security, and flexibility to unleash the full potential of Agentic AI in your enterprise. No boilerplate, no headaches.
 
 Visit [agentic-layer.ai](https://agentic-layer.ai) to learn more!
 
