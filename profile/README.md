@@ -15,6 +15,8 @@ We give you the control, security, and flexibility to unleash the full potential
 
 Visit [agentic-layer.ai](https://agentic-layer.ai) to learn more!
 
+See the [docs](docs.agentic-layer.ai) for details.
+
 ----
 
 Agentic Layer projects adopt our [Code of Conduct](https://github.com/agentic-layer/.github/blob/main/CODE_OF_CONDUCT.md).
