@@ -18,7 +18,6 @@ Visit [agentic-layer.ai](https://agentic-layer.ai) to learn more!
 To **get started with the Agentic Layer**, please visit [our documentation](https://docs.agentic-layer.ai/). Besides others, there you find 
 
 - [Tutorials](https://docs.agentic-layer.ai/home/main/tutorials.html)
-- [How to guides](https://docs.agentic-layer.ai/home/main/how-to-guides.html)
 - [Architecture documentation](https://docs.agentic-layer.ai/architecture/main/index.html)
 
 ----
