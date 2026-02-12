@@ -11,14 +11,23 @@
 Your Bridge to Sovereign AI Orchestration.
 Transform isolated AI agents into an enterprise-grade workforce.
 
-We give you the control, security, and flexibility to unleash the full potential of Agentic AI in your enterprise. No boilerplate, no headaches.
+The Agentic Layer gives you the control, security, and flexibility to unleash the full potential of Agentic AI in your enterprise.
+No boilerplate, no headaches.
 
 Visit [agentic-layer.ai](https://agentic-layer.ai) to learn more!
 
 To **get started with the Agentic Layer**, please visit [our documentation](https://docs.agentic-layer.ai/). Besides others, there you find 
 
 - Tutorials
+- Installation guides
 - Architecture documentation
+
+----
+
+We are looking for contributors now! Interested? How about:
+
+- Give the Agentic Layer a try and [report your feedback](https://github.com/orgs/agentic-layer/discussions) 
+- Head over to our [Kanban board](https://github.com/orgs/agentic-layer/projects/4) and make your hands dirty yourself
 
 ----
 
