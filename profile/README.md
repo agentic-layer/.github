@@ -26,8 +26,10 @@ To **get started with the Agentic Layer**, please visit [our documentation](http
 
 We are looking for contributors now! Interested? How about:
 
-- Give the Agentic Layer a try and [report your feedback](https://github.com/orgs/agentic-layer/discussions) 
+- Give the Agentic Layer a try and [discuss your experience and ideas](https://github.com/orgs/agentic-layer/discussions) 
 - Head over to our [Kanban board](https://github.com/orgs/agentic-layer/projects/4) and make your hands dirty yourself
+- Know a nice new gateway for Agents, MCP or LLM Models? Implement your own operator based on the agentic-layer CRDs!
+- Prefer a more efficient agent framework than ADK with Python? Implement a new [reference template](https://github.com/agentic-layer/agent-template-adk/)
 
 ----
 
