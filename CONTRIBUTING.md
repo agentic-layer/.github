@@ -42,12 +42,12 @@ Other conventional commit types are also allowed (docs, style, refactor, test, e
 
 ### Examples
 
-```bash
+```
 feat: Add user authentication system
 fix: Resolve database connection timeout
 chore: Update dependencies to latest versions
-feat: PAAL-1234 Add new feature
-fix: PAAL-567 Fix login validation bug
+feat: #1234 Add new feature
+fix: #567 Fix login validation bug
 ```
 
 ### Important Notes
@@ -99,19 +99,7 @@ This ensures that `git pull` uses rebase instead of merge by default.
 
 ## Issue Tracking Integration
 
-We support both Jira and GitHub issues for tracking work. Choose the appropriate format based on your issue type.
-
-### Jira Issues
-
-If you're working on a Jira ticket:
-
-1. Include the issue key in all relevant commit messages
-2. Use the format: `PAAL-XXXX` where XXXX is the ticket number
-3. Example: `feat: PAAL-1234 Add user dashboard component`
-
-### GitHub Issues
-
-If you're working on a GitHub issue:
+When you're working on a GitHub issue:
 
 1. Include the issue number in all relevant commit messages
 2. Use the format: `#XXX` where XXX is the issue number
@@ -123,10 +111,6 @@ If you're working on a GitHub issue:
 ### Format Examples
 
 ```bash
-# Jira issues
-feat: PAAL-1234 Add new feature
-fix: PAAL-567 Fix login validation bug
-
 # GitHub issues  
 feat: #123 Add new feature
 fix: #456 Fix login validation bug
