@@ -8,13 +8,11 @@
 
 ----
 
-Your Bridge to Sovereign AI Orchestration.
-Transform isolated AI agents into an enterprise-grade workforce.
+Agentic Layer is an orchestration and runtime layer for building and operating multi-agent AI systems in enterprise environments.
 
-The Agentic Layer gives you the control, security, and flexibility to unleash the full potential of Agentic AI in your enterprise.
-No boilerplate, no headaches.
+It provides reusable components and APIs to coordinate agents, manage execution flows, and integrate with existing systems, without locking you into a specific framework or vendor.
 
-Visit [agentic-layer.ai](https://agentic-layer.ai) to learn more!
+As a lightweight, Kubernetes-native platform add-on, it introduces clear execution boundaries, observability, and control mechanisms for running agent-based workloads in production.
 
 To **get started with the Agentic Layer**, please visit [our documentation](https://docs.agentic-layer.ai/). Besides others, there you find 
 
